@@ -1,2 +1,2 @@
-# SakSaka
-El Bot
+# Elenore
+Elenore - Multi-use Discord Bot.
